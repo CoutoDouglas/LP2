@@ -1,0 +1,9 @@
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\bin\Debug\projeto2.exe.config
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\bin\Debug\projeto2.exe
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\bin\Debug\projeto2.pdb
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\obj\Debug\projeto2.csprojResolveAssemblyReference.cache
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\obj\Debug\projeto2.Form1.resources
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\obj\Debug\projeto2.Properties.Resources.resources
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\obj\Debug\projeto2.csproj.GenerateResource.Cache
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\obj\Debug\projeto2.exe
+c:\users\0030481923001\documents\visual studio 2013\Projects\projeto2\projeto2\obj\Debug\projeto2.pdb
